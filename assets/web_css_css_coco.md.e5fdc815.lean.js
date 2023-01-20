@@ -1,1 +1,0 @@
-import{_ as i,c as l,o as e,a as o}from"./app.8cf9e760.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/css/css_coco.md","lastUpdated":1673349641000}'),s={name:"web/css/css_coco.md"},t=o("",2),c=[t];function a(r,_,d,p,b,n){return e(),l("div",null,c)}const u=i(s,[["render",a]]);export{f as __pageData,u as default};
